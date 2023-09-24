@@ -13,7 +13,7 @@ name                     : &name "Ziheng"
 description              : &description "PhD student at Oden Institute of Computational Science at UT-Austin"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/Zzhang793"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ziheng(Marshall) Zhang "
+  name             : "Ziheng Zhang "
   avatar           : "profile.png"
   bio              : "PhD student at Oden Institute of Computational Science at UT-Austin"
   location         : "Austin, TX"
@@ -89,32 +89,16 @@ author:
   googlescholar    : 
   email            : "ziheng@utexas.edu"
   researchgate     : 
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
   facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
+  github           : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         :
   orcid            : 
-  pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  tumblr           :
   twitter          :
-  vine             :
-  weibo            :
-  xing             :
   youtube          :
-  wikipedia        :
 
 
 # Reading Files
