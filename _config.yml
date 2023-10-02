@@ -72,6 +72,7 @@ social:
 
 
 # Analytics
+google_analytics         : G-306H6E2400
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
